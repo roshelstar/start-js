@@ -1,0 +1,9 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>TITEL</title>
+  </head>
+  <body>
+    <button onclick="alert('Hello, World!')">Click me</button>
+  </body>
+</html>
